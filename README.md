@@ -36,7 +36,7 @@ This is a full-stack **Grocery Store Management System** developed as part of my
 
 1. Clone the Repository
 
-git clone https://github.com/Jawad5480/grocery-store-management.git  
+git clone https://github.com/Jawad5480/grocery-store-management-system.git  
 cd grocery-store-management
 
 2. Install Dependencies
